@@ -1,6 +1,7 @@
 # Flutter Color Picker
 
 A Flutter app to demonstrate Color Picker
+
 ---
 ### Demonstration of different types of color pickers:
 - Default Color Picker
