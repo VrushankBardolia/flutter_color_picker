@@ -30,7 +30,6 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-
   Color myColor = Colors.lightBlue;
 
   @override
@@ -45,7 +44,7 @@ class _HomeState extends State<Home> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              const SizedBox(height: 50),
+              const SizedBox(height: 80),
 
               // Default Color Picker
               FilledButton(
